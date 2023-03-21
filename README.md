@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution](https://hmantas.github.io/Product-preview-card-component-solution/)
 
 ## My process
 
