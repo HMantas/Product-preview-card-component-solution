@@ -91,17 +91,15 @@ body {
     align-items: center;
     justify-content: center;
     gap: 10px;
+
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
 }
 
 .btn img {
     width: 18px;
     height: 18px;
-}
-
-.btn p {
-    color: #fff;
-    font-weight: 700;
-    font-size: 14px;
 }
 
 @media screen and (max-width: 650px) {
